@@ -9,26 +9,5 @@
 
 <div align="center">
   I am a computer science student at ESPOL, specializing in the creation of games and mobile apps. I'm highly motivated to learn and grow as a developer.
-</div>
-
-🛠️ Languages & Technologies
-
-<div align="center">
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="C++" title="C++" />
-  </a>
-  <img width="15" />
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" title="Java" />
-  </a>
-  <img width="15" />
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" title="Python" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <em>Always open to feedback, collaboration, and learning from the community. Let's connect!</em>
+  Always open to feedback, collaboration, and learning from the community. Let's connect!
 </div>
