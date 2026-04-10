@@ -1,18 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=SRGM&fontSize=80&animation=fadeIn" width="100%" alt="Profile Banner">
 
 <div align="center">
-  <h3>Hey there! 👋 I'm Santiago Gómez</h3>
-  <p><em>Computer Science Student at ESPOL (Ecuador) 🇪🇨 | Exploring the world of code one line at a time</em></p>
+  <h3>Hi! 👋 I'm Santiago Gómez</h3>
+  <p><em>Computer Science Student | Exploring the world of code one line at a time | (English/Spanish)</em></p>
 </div>
 
 ---
 
-### 👨‍💻 About Me
-
-* 🎓 I'm currently studying at **Universidad Espol**, having just wrapped up my first year. I'm highly motivated to learn and grow as a developer.
-* 🌱 My current primary focus is mastering the fundamentals of logic and data structures. Right now, I'm diving deep into **C++**.
-* ⚔️ **Current Project:** I'm applying my skills by developing a terminal-based turn-based combat game in C++ (featuring mechanics for an Archer, Priest, and Squire taking on a Demon King!).
-* 💡 I strongly believe in learning by doing. I'm a beginner with a huge appetite for knowledge and problem-solving.
+I am a computer science student at ESPOL, specializing in the creation of games and mobile apps. I'm highly motivated to learn and grow as a developer.
 
 ### 🛠️ Languages & Technologies
 
