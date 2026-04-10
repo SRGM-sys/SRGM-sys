@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=SRGM&fontSize=80&animation=fadeIn" width="100%" alt="Profile Banner">
+<img src="./banner_animado.gif" width="100%">
 
 <div align="center">
   <h3>Hi! 👋 I'm Santiago Gómez</h3>
