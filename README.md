@@ -7,7 +7,9 @@
 
 ---
 
-I am a computer science student at ESPOL, specializing in the creation of games and mobile apps. I'm highly motivated to learn and grow as a developer.
+<div align="center">
+  I am a computer science student at ESPOL, specializing in the creation of games and mobile apps. I'm highly motivated to learn and grow as a developer.
+</div>
 
 🛠️ Languages & Technologies
 
@@ -27,13 +29,6 @@ I am a computer science student at ESPOL, specializing in the creation of games 
 
 <br>
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
-
----
 <div align="center">
   <em>Always open to feedback, collaboration, and learning from the community. Let's connect!</em>
 </div>
