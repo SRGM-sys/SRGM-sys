@@ -9,7 +9,7 @@
 
 I am a computer science student at ESPOL, specializing in the creation of games and mobile apps. I'm highly motivated to learn and grow as a developer.
 
-## 🛠️ Languages & Technologies
+# 🛠️ Languages & Technologies
 
 <div align="center">
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
