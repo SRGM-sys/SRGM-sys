@@ -1,4 +1,4 @@
-<img src="./banner_animado.gif" width="100%">
+<img src="./banner.png" width="100%">
 
 <div align="center">
   <h3>Hi! 👋 I'm Santiago Gómez</h3>
