@@ -8,6 +8,5 @@
 ---
 
 <div align="center">
-  I am a computer science student at ESPOL, specializing in the creation of games and mobile apps. I'm highly motivated to learn and grow as a developer.
-  Always open to feedback, collaboration, and learning from the community. Let's connect!
+  I am a computer science student at ESPOL, specializing in game logic and Object-Oriented Programming. My current focus is on mastering core software fundamentals, from building robust terminal applications to developing custom 2D game engines. I'm highly motivated to learn and grow as a developer. Always open to feedback, collaboration, and learning from the community. Let's connect!
 </div>
