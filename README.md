@@ -7,6 +7,9 @@
 
 ---
 
-<div align="center">
-  I am a computer science student at ESPOL, specializing in game logic and Object-Oriented Programming. My current focus is on mastering core software fundamentals, from building robust terminal applications to developing custom 2D game engines. I'm highly motivated to learn and grow as a developer. Always open to feedback, collaboration, and learning from the community. Let's connect!
-</div>
+### 👨‍💻 About Me
+
+* 🎓 **Background:** I am a Computer Science student at **ESPOL**, specializing in game logic and Object-Oriented Programming.
+* ⚙️ **Current Focus:** Mastering core software fundamentals, from building robust terminal applications to developing custom 2D game engines.
+* 🌱 **Motivation:** I'm highly driven to learn, grow as a developer, and turn complex logic into interactive experiences.
+* 🤝 **Let's Connect:** Always open to feedback, collaboration, and learning from the global developer community!
